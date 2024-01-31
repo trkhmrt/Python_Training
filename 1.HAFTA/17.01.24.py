@@ -1,4 +1,4 @@
-"""DEĞİŞKEN KAVRAMI(VARIABLES)
+"""DEĞİŞKEN KAVRAMI
 
 Değişken(Variables) Nedir ?
 
