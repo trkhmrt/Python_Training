@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597138ad-87bd-4cda-9bc5-9ee423d800e6" name="Changes" comment="" />
+    <list default="true" id="597138ad-87bd-4cda-9bc5-9ee423d800e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/4.HAFTA/05.02.24.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.HAFTA/05.02.24.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +50,7 @@
       <updated>1706723087784</updated>
       <workItem from="1706723088872" duration="969000" />
       <workItem from="1707150423567" duration="18000" />
+      <workItem from="1707150461819" duration="695000" />
     </task>
     <servers />
   </component>
