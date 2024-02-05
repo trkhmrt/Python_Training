@@ -50,15 +50,26 @@ for i in range(çalışma_aralığı):
 
 
 #Başlangıç ve bitiş değerlerini kullanıcıdan alınan bir for döngüsü yazınız.Eğer başlşangıç bitişten büyükse döngüyü bir şekilde çalıştırın.
+#
+# baslangic=int(input("Başlangıç Değeri giriniz."))
+# bitis=int(input("Bitiş değeri giriniz."))
+#
+# if baslangic>bitis:
+#     for i in range(baslangic,bitis,-1):
+#         print(i)
+# else:
+#     for i in range(baslangic,bitis):
+#         print(i)
+#
 
-baslangic=int(input("Başlangıç Değeri giriniz."))
-bitis=int(input("Bitiş değeri giriniz."))
+#Sepet uygulaması:Kişiden kaç adet ürün alacağını sorun.Döngüyü  ürün adedi kadar çalıştırın ve her adımda her bir ürünün fiyatını kullanıcıdan alın.bütün fiyatlar girildikten sonra ürünlerin toplam fiyatını ekranda yazdırın.
 
-if baslangic>bitis:
-    for i in range(baslangic,bitis,-1):
-        print(i)
-else:
-    for i in range(baslangic,bitis):
-        print(i)
-       
 
+urun_adedi=int(input("Ürün Sayısını giriniz"))
+toplam = 0
+for i in range(urun_adedi):
+    fiyat=int(input("Ürün fiyatını giriniz"))
+    toplam+=fiyat
+
+
+print(f"Ürünlerin toplamı:{toplam}")
